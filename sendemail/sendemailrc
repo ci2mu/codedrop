@@ -1,0 +1,24 @@
+[aim]
+from: me<user@aim.com>
+username: user@aim.com
+password: password
+smtphost: smtp.aol.com:587
+
+[gmail]
+from: me<user@gmail.com>
+username: user@gmail.com
+password: password
+smtphost: smtp.gmail.com:587
+
+[gmx]
+from: me<user@gmx.com>
+username: user@gmx.com
+password: password
+smtphost: mail.gmx.com:587
+
+[yahoo]
+from: me<user@yahoo.com>
+username: user@yahoo.com
+password: password
+smtphost: smtp.mail.yahoo.com:587
+
