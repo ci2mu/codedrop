@@ -1,4 +1,4 @@
-codedrop
+README
 ========
 
-a dropbox for various code
+Here are some collections of uncategorized code. 
